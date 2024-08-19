@@ -49,7 +49,7 @@ Database Expansion: Continuously collecting and refining the dataset to cover mo
 
 Hardware: Suitable for real-time inference with a response time under 10ms.
 
-Software: Python, OpenCV, YOLO, and other relevant machine learning libraries.
+Software: [Python](https://www.python.org/), [OpenCV](https://opencv.org/), [YOLO](https://github.com/ultralytics/ultralytics), and other relevant machine learning libraries.
 
 ## Usage
 Clone the repository.
@@ -66,3 +66,4 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 We would like to thank our mentors, Vũ Hoàng Việt and Nguyễn Võ Thành Khang, for their guidance throughout this project.
 
+Much thanks to [Quang Phát](https://github.com/qphat289), [Thái Bảo](https://github.com/Jenoxx123), [Hoàng Phúc](https://github.com/Dominiku1709) and [Thanh Phong](https://github.com/Pdz28)
