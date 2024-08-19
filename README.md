@@ -59,7 +59,7 @@ Install the required dependencies.
 Run the training scripts to train the model on the provided dataset.
 
 Deploy the model on a suitable hardware platform for real-time vehicle assistance.
-
+.
 ## License
 This project is licensed under the MIT License.
 
