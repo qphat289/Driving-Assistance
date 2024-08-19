@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icon\brake.png</file>
+    <file>icon\turn_left.png</file>
+    <file>icon\turn_right.png</file>
+    <file>icon\icon.ico</file>
+</qresource>
+</RCC>

@@ -1,0 +1,14 @@
+description: Ultralytics Frontv2 model trained on /kaggle/working/datasets/walk-crossing_new+old/data.yaml
+author: Ultralytics
+date: '2024-07-02T11:49:27.094905'
+version: 8.2.42
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: walk-crossing
