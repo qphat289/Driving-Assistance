@@ -42,7 +42,7 @@ Database Expansion: Continuously collecting and refining the dataset to cover mo
 
 [Car Direction Predictions](https://woven.toyota/en/prediction-dataset/): Enhancing the system to predict vehicle movements based on detected obstacles and road conditions.
 <p align="center">
-    <img src="./docs/images/Prediction_Dataset_Gif.gif" alt="Image" width="100%"/>
+    <img src="./docs/images/Prediction_Dataset_Gif.gif" alt="Image" width="60%"/>
 </p>
 
 ## Requirements
