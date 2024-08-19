@@ -16,8 +16,6 @@ except ImportError:
     print('    pip install numpy')
     raise
 
-# TODO
-# is_x64 = sys.maxsize > 2**32
 
 
 def __load_extra_py_code_for_module(base, name, enable_debug_print=False):
