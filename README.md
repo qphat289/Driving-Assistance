@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 We would like to thank our mentors, Vũ Hoàng Việt and Nguyễn Võ Thành Khang, for their guidance throughout this project.
 
-Much thanks to [Quang Phát](https://github.com/qphat289), [Tuấn Anh](https://github.com/mineralsss),[Thái Bảo](https://github.com/Jenoxx123), [Hoàng Phúc](https://github.com/Dominiku1709) and [Thanh Phong](https://github.com/Pdz28)
+Much thanks to [Quang Phát](https://github.com/qphat289), [Tuấn Anh](https://github.com/mineralsss), [Thái Bảo](https://github.com/Jenoxx123), [Hoàng Phúc](https://github.com/Dominiku1709) and [Thanh Phong](https://github.com/Pdz28)
